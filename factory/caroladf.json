@@ -1,0 +1,9 @@
+{
+	"name": "caroladf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34ccce1d-36c1-43bb-9c87-382c1b2a7116",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
