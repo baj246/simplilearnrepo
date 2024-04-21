@@ -1,0 +1,14 @@
+{
+	"name": "awss3carolsource",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AmazonS3",
+		"typeProperties": {
+			"serviceUrl": "https://s3.amazonaws.com",
+			"accessKeyId": "AKIAWALJACTLJ3NBSYXT",
+			"authenticationType": "AccessKey",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDRGNjI1N0I3LTY1NkMtNDYzQy04RDhCLUNEQUUyMUM5ODMzQV8zMGU4NDIxMC1mMjhlLTQwMWUtOTgzYS05ZmI5NWY1YjMyNmEiDQp9"
+		}
+	}
+}
