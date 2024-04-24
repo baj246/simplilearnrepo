@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "azuredemofactorycarol"
+		},
+		"AmazonS31_secretAccessKey": {
+			"value": ""
+		},
+		"targetblob_connectionString": {
+			"value": ""
+		},
+		"targetlink_connectionString": {
+			"value": ""
+		},
+		"AmazonS31_properties_typeProperties_accessKeyId": {
+			"value": "AKIAWALJACTLH5V3RK2S"
+		}
+	}
+}
