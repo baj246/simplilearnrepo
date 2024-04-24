@@ -1,0 +1,9 @@
+{
+	"name": "azuredemofactorycarol",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34257c42-afbc-4789-89a4-5e2089f55fbc",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
